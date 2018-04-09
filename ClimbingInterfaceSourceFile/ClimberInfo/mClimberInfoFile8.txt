@@ -1,0 +1,2 @@
+#dis from left corner, dis from wall, climber's height
+2.22, 0.5, 1.84
